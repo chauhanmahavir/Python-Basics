@@ -15,7 +15,7 @@ x.remove(2)
 print(x)
 
 
-'''remove at inddex 2'''
+'''remove at index 2'''
 x.remove(x[2])
 print(x)
 
