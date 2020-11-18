@@ -5,7 +5,7 @@ append(value)'''
 x.append(2)
 print(x)
 
-'''Insert(insex,value)'''
+'''Insert(index,value)'''
 x.insert(2,99)
 print(x)
 
